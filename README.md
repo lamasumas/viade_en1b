@@ -3,9 +3,11 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb242ef1364d43c4b134aa6b65acd970)](https://www.codacy.com/gh/Arquisoft/viade_en1b?utm_source=github.com&utm_medium=referral&utm_content=Arquisoft/viade_en1b&utm_campaign=Badge_Grade)
 [![GitHub license](https://img.shields.io/github/license/Arquisoft/viade_en1b)](https://github.com/Arquisoft/viade_en1b/blob/master/LICENSE)
 [![Version Badge](https://img.shields.io/badge/Version-1.1-blueviolet)](https://img.shields.io/badge/Version-1.1-blueviolet)
-# VIADE EN1B
+# Fork of VIADE EN1B
 
 This project is an assignment for the [Software Architecture course](https://arquisoft.github.io/) following [these requirements](https://labra.solid.community/public/SoftwareArchitecture/AssignmentDescription/).
+
+In this project I work in a small team with another five great developers. In here we use the new Solid technology (proposed by Tim Berners Lee) that is currently being developed.
 
 More information about how this project has been setup is available [in the wiki](https://github.com/Arquisoft/viade_en1b/wiki).
 
